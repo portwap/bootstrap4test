@@ -151,6 +151,11 @@ i {
     position: static;
     transform: rotate(0);
   }
+
+  .nav-item {
+    font-size: 3rem;
+  }
+
 }
 
 /* Call to Action Section */
